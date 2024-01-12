@@ -73,8 +73,8 @@ export default function Cards() {
 
                     </motion.div>
                     <div className="w-full h-3/5 flex items-center flex-col ">
-                        <div><h2>@mrmanjeyy</h2></div>
-                        <div><h1 className="text-xl">Manoj Gautam</h1></div>
+                        <div><h2>@itsSaksham</h2></div>
+                        <div><h1 className="text-xl">Saksham Khatiwada</h1></div>
                     </div>
 
                 </SwiperSlide>
@@ -97,9 +97,10 @@ export default function Cards() {
                 }
                 <SwiperSlide className="bg-white rounded-3xl s4 o-b ">
                     <div className="w-full h-full flex flex-col">
-                        <div className="w-full h-1/5"></div>
+                        <div className="w-full h-1/5 flex items-center justify-center text-2xl font-medium font-poppins"><h1>Projects</h1></div>
                         <div className="w-full h-3/5 flex flex-wrap items-center justify-center gap-6">
-                            <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s"></motion.div>
+                            <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s">
+                            </motion.div>
                             <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s"></motion.div>
                             <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s"></motion.div>
                             <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s"></motion.div>

@@ -24,6 +24,8 @@ body {
 
 .s {
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background-image: url('https://wallpapercave.com/wp/AUW7BjA.jpg');
+    background-size: cover;
 }
 
 .swiper-slide {
@@ -37,7 +39,7 @@ body {
 
 .s2-head {
 
-    background-image: url("/2bg.gif");
+    background-image: url('/ily.gif');
     border-radius: 0% 0% 20% 0%;
     background-size: cover;
 }
